@@ -1,0 +1,15 @@
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.deps.json
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.dll
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\bin\Debug\net8.0\MovieStore.DL.pdb
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\bin\Debug\net8.0\MovieStore.Models.dll
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\bin\Debug\net8.0\MovieStore.Models.pdb
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieSto.54BE3797.Up2Date
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.dll
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\refint\MovieStore.DL.dll
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\MovieStore.DL.pdb
+C:\Users\ASUS\Downloads\MovieStore-main (1)\MovieStore-main\MovieStore.DL\obj\Debug\net8.0\ref\MovieStore.DL.dll
