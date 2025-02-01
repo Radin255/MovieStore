@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x2VjOHmWJhA=",
+  "dgSpecHash": "1fKFGi7ySjI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Konos\\source\\repos\\RedMango_API\\RedMango_API\\MyProject.csproj",
+  "projectFilePath": "C:\\Users\\Konos\\OneDrive\\Documents\\GitHub\\MovieStore\\RedMango_API\\MyProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Konos\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Konos\\.nuget\\packages\\azure.data.tables\\12.9.1\\azure.data.tables.12.9.1.nupkg.sha512",
