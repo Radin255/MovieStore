@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.Web/sites/RedMangoAP/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsStorageAccount1_9B77BFD7DE, /subscriptions/6379cecb-d514-469b-9400-2c4be0384624/resourcegroups/BookWebApp_group/providers/Microsoft.Web/sites/RedMangoAP/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsStorageAccount1_3B9B537B3C",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/reactdotnetmastery123",
+      "type": "storage.azure",
+      "connectionId": "ConnectionStrings:StorageAccount1",
+      "dynamicId": null
+    }
+  }
+}
